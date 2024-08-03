@@ -1,7 +1,7 @@
 # Student_Management
 
 Project Description
-This project is a basic Spring Boot application that demonstrates the use of Spring MVC, Spring Security with JWT, and Spring Data JPA. The application includes two entities, Student and Subject, with a many-to-many relationship between them. The project also provides a REST API layer for creating and retrieving students and subjects, and it uses an in-memory H2 database for persistence.
+This project is a basic Spring Boot application that demonstrates the use of Spring MVC, Spring Security with JWT, and Spring Data JPA. The application includes two entities, Student and Subject, with a many-to-many relationship between them. The project also provides a REST API layer for creating and retrieving students and subjects, and it uses a MySQL database for persistence.
 
 Technologies Used
 Spring Boot
